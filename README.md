@@ -32,15 +32,15 @@ Since September 2025, I work as an independent cybersecurity and compliance writ
 
 **Documentation Systems** — I build scalable documentation infrastructure, from information architecture to automated publishing. Every system is built to support products through multiple releases and updates.
 
-**Cybersecurity Content** — Over a decade writing for identity management, threat prevention, and compliance products. I document security-critical workflows with the precision they demand.
+**Cybersecurity Content** — Over a decade writing for identity management, threat prevention, and compliance products. I document application functionalities, use cases, and security-critical workflows with the precision they demand.
 
 **API & Developer Docs** — API references, installation guides, and release notes written for the person deploying at 11pm on a Friday. Accurate, complete, and actionable on first read.
 
-**Knowledge Extraction** — A structured methodology for working with distributed SMEs across time zones — translating domain knowledge into user-ready content through targeted interviews and cross-source triangulation.
+**Knowledge Extraction** — A well-defined methodology for working with distributed SMEs across time zones, involving domain sessions, targeted interviews, and spec review, to translate domain knowledge into user-ready content.
 
-**Cybersecurity Writing** — Long-form, SEO-optimized content on governance, risk, compliance, and identity security with rigorous editorial validation.
+**Cybersecurity Writing** — Long-form, SEO-optimized content on governance, risk, compliance, and identity security. AI-assisted research workflows with rigorous editorial validation and originality standards.
 
-**Team Leadership** — Mentored and managed junior writers across multiple organizations. Set quality standards and built repeatable contribution models for documentation teams.
+**Team Leadership** — MMentored and managed junior writers. Set quality standards, reviewed training content, and built contribution models for documentation teams.
 
 ---
 
