@@ -92,11 +92,11 @@ Since September 2025, I work as an independent cybersecurity and compliance writ
 ### 📘 [Netwrix Product Documentation](https://docs.netwrix.com/)
 Full documentation ownership for Directory Manager, Threat Prevention, Identity Recovery, and 1Secure — live in production, serving enterprise administrators globally.
 
-### 📝 Insider Threat Indicators IT Misses Without Policy-Based Controls
+### 📝 [Insider Threat Indicators IT Misses Without Policy-Based Controls](https://netwrix.com/en/resources/blog/insider-threat-indicators/)
 Long-form cybersecurity article exploring how policy-based access controls help organizations detect insider threats that traditional monitoring misses.
 
-### 📝 How to Secure Data at Rest, in Use, and in Motion
-Comprehensive guide covering enterprise data security across all three states — encryption standards, access governance, and implementation best practices for security and compliance teams.
+### 📝 [NIST CSF 2.0: What's new in the Cybersecurity Framework](https://netwrix.com/en/resources/blog/nist-csf-2-0-what-s-new-in-the-cybersecurity-framework/)
+A practitioner-focused breakdown of NIST CSF 2.0 that also covers the framework's first major update since 2018, including the new Govern function and expanded supply chain guidance.
 
 ---
 
