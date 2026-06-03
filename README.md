@@ -1,7 +1,7 @@
 # Ayesha Azeem
 ### Senior Technical Writer · Strategic Knowledge System Architect · Cybersecurity Content Specialist
 
-📧 [aishaharoon@gmail.com](mailto:aishaharoon@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-azeem-3277203/) · 📍 Lahore, Pakistan · Open to Remote
+📧 [aishaharoon@gmail.com](mailto:aishaharoon@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/ayesha-azeem-3277203/) · 🌐 [Portfolio](https://ayeshaaz06.github.io/AyeshaAz06/) · 📍 Lahore, Pakistan · Open to Remote
 
 ---
 
