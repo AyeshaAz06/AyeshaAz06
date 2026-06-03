@@ -7,13 +7,13 @@
 
 ## About Me
 
-I am a Senior Technical Writer and Content Strategist with over 20 years of experience building documentation systems — not just documents — for enterprise software, cybersecurity, and identity management products.
+I am a Senior Technical Writer and Content Strategist with over 20 years of experience building documentation systems for enterprise software, cybersecurity, and identity management products.
 
-My most significant professional contribution was architecting a full migration of 1,000+ pages from MadCap Flare/HTML to a VS Code + Markdown + Docusaurus stack in under two months at Imanami/Netwrix. This wasn't a tool switch — it was a shift to docs-as-code, with automated publishing, GitHub/Azure DevOps version control, and a repeatable contribution model for globally distributed SME teams.
+One of my outstanding professional contribution was architecting a full migration of thousands of documentation pages from MadCap Flare/HTML to a VS Code + Markdown + Docusaurus stack in under two months at Imanami/Netwrix. This was a shift to docs-as-code, with automated publishing, GitHub version control, and a  contribution model for globally distributed SME teams.
 
-I specialize in cybersecurity and identity management content, where precision matters. A misunderstood configuration step in a security product isn't just a UX failure — it's a risk. I bring both the technical depth and the editorial discipline this domain demands.
+I specialize in the cybersecurity and identity management domain, where precision matters. A misunderstood configuration step in a security product isn't just a documentation failure; it's a risk. I bring both the technical depth and the editorial discipline this niche demands.
 
-Since September 2025, I work independently as a cybersecurity and compliance writer — producing SEO-optimized long-form content on identity security, data governance, risk management, and regulatory compliance, using AI-assisted research workflows with rigorous editorial validation.
+Since September 2025, I work as an independent cybersecurity and compliance writer, producing SEO-optimized long-form content on identity security, data governance, risk management, and regulatory compliance. I am adept at using AI-assisted research workflows with rigorous editorial validation.
 
 ---
 
@@ -22,7 +22,7 @@ Since September 2025, I work independently as a cybersecurity and compliance wri
 | | |
 |---|---|
 | 🗓 **20+ Years** | Experience in technical writing and content strategy |
-| 📄 **1,000+ Pages** | Migrated to docs-as-code in under 2 months |
+| 📄 **5,000+ Pages** | Migrated to docs-as-code in under 2 months |
 | ⚡ **50% Faster** | Documentation review cycle time reduction |
 | ✅ **100%** | Customer ticket resolution rate through improved docs |
 
@@ -30,7 +30,7 @@ Since September 2025, I work independently as a cybersecurity and compliance wri
 
 ## What I Do
 
-**Documentation Systems** — I build scalable documentation infrastructure: information architecture, content taxonomies, and automated publishing pipelines. Every system I design is built to outlast any single product release.
+**Documentation Systems** — I build scalable documentation infrastructure, from information architecture to automated publishing. Every system is built to support products through multiple releases and updates.
 
 **Cybersecurity Content** — Over a decade writing for identity management, threat prevention, and compliance products. I document security-critical workflows with the precision they demand.
 
