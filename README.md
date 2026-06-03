@@ -96,7 +96,7 @@ Full documentation ownership for Directory Manager, Threat Prevention, Identity 
 Long-form cybersecurity article exploring how policy-based access controls help organizations detect insider threats that traditional monitoring misses.
 
 ### 📝 [NIST CSF 2.0: What's new in the Cybersecurity Framework](https://netwrix.com/en/resources/blog/nist-csf-2-0-what-s-new-in-the-cybersecurity-framework/)
-A practitioner-focused breakdown of NIST CSF 2.0 that also covers the framework's first major update since 2018, including the new Govern function and expanded supply chain guidance.
+A practitioner-focused breakdown of NIST CSF 2.0 that covers the framework's first major update since 2018, including the new Govern function and expanded supply chain guidance.
 
 ---
 
