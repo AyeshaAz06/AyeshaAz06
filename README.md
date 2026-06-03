@@ -49,48 +49,48 @@ Since September 2025, I work as an independent cybersecurity and compliance writ
 ### Independent Cybersecurity & Compliance Writer
 **Self-Employed · Remote** | Sep 2025 — Present
 
-- Writing well-researched blogs on cybersecurity, risk management, governance, and compliance for enterprise audiences
-- AI-assisted research and content development with rigorous validation, ensuring originality and analytical depth
-- SEO-optimized long-form content improving website traffic and industry visibility for clients
+- Writing well-researched blogs on cybersecurity, risk management, governance, and compliance for enterprise audiences.
+- AI-assisted research and content development with rigorous validation, ensuring originality and depth.
+- SEO-optimized long-form content improving website traffic and industry visibility for clients.
 
 ---
 
 ### Senior Technical Writer
 **Imanami / Netwrix · Remote** | Nov 2014 — Aug 2025
 
-- Led end-to-end documentation planning and delivery for cybersecurity products — cutting review time by 50% and customer tickets in half
-- Authored comprehensive technical content including product prerequisites, installation guides, API references, feature comparison charts, and release notes under version control
-- Migrated 1,000+ pages from MadCap Flare/HTML to VS Code/Markdown in 2 months, implementing docs-as-code and automating publishing workflows
-- Collaborated with globally distributed SME teams to capture domain knowledge and translate it into clear, actionable documentation
-- Owned documentation for Netwrix Directory Manager, Threat Prevention, Identity Recovery, Threat Manager, and 1Secure
-- Partnered with Marketing to develop product datasheets and solution-focused blogs; mentored and managed junior writers
+- Led end-to-end documentation planning and delivery for cybersecurity products, cutting review time by 50% and customer tickets in half.
+- Authored comprehensive technical content including product prerequisites, installation guides, API references, feature comparison charts, and release notes under version control.
+- Migrated product documentation from MadCap Flare/HTML to VS Code/Markdown in 2 months, implementing docs-as-code and automating publishing workflows.
+- Collaborated with globally distributed SME teams to capture domain knowledge and translate it into clear, actionable documentation.
+- Owned documentation for Netwrix Directory Manager, Threat Prevention, Identity Recovery, and 1Secure.
+- Partnered with Marketing to develop product datasheets and solution-focused blogs; mentored and managed junior writers.
 
 ---
 
 ### Principal Technical Writer
 **NorthBay Solutions · Lahore** | Jan 2012 — Oct 2014
 
-- Documented back-end processes and business logic for applications parsing US SEC filings (Intelligize team)
-- Developed and reviewed documentation including requirements specs, user guides, and proposals for server software and mobile apps
-- Created user-visible strings (UI labels, message strings) for iOS/Android apps and games, ensuring UX consistency
-- Launched and edited the NBS official newsletter; managed professional communication training programs
+- Documented back-end processes and business logic for applications parsing US SEC filings (Intelligize team).
+- Developed and reviewed documentation including requirements specs, user guides, and proposals for server software and mobile apps.
+- Created user-visible strings (UI labels, message strings) for iOS/Android apps and games, ensuring UX consistency.
+- Launched and edited the NBS official newsletter; managed professional communication training programs.
 
 ---
 
 ### Principal Technical Writer
 **NetSol Technologies Ltd · Lahore** | Dec 2003 — Jan 2012
 
-- Developed and maintained user manuals, technical guides, and online help across leasing, finance, banking, transportation, and government domains
-- Served as Editor in Chief of NetSol RoundUp, the company's quarterly newsletter
-- Contributed to documentation for NetSol's UK and US offices under strict international deadlines
-- Played a key role in upgrading documentation processes from CMM L3 to L5 standards; served as functional area representative for L4 and L5 assessments
+- Developed and maintained user manuals, technical guides, and online help across leasing, finance, banking, transportation, and government domains.
+- Served as Editor in Chief of NetSol RoundUp, the company's quarterly newsletter.
+- Contributed to documentation for NetSol's UK and US offices under strict international deadlines.
+- Played a key role in upgrading documentation processes from CMM L3 to L5 standards; served as functional area representative for L4 and L5 assessments.
 
 ---
 
 ## Featured Work
 
 ### 📘 [Netwrix Product Documentation](https://docs.netwrix.com/)
-Full documentation ownership for Directory Manager, Threat Prevention, Identity Recovery, Threat Manager, and 1Secure — live in production, serving enterprise administrators globally.
+Full documentation ownership for Directory Manager, Threat Prevention, Identity Recovery, and 1Secure — live in production, serving enterprise administrators globally.
 
 ### 📝 Insider Threat Indicators IT Misses Without Policy-Based Controls
 Long-form cybersecurity article exploring how policy-based access controls help organizations detect insider threats that traditional monitoring misses.
