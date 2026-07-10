@@ -83,7 +83,7 @@ Since September 2025, I work as an independent cybersecurity and compliance writ
 - Developed and maintained user manuals, technical guides, and online help across leasing, finance, banking, transportation, and government domains.
 - Served as Editor in Chief of NetSol RoundUp, the company's quarterly newsletter.
 - Contributed to documentation for NetSol's UK and US offices under strict international deadlines.
-- Played a key role in upgrading documentation processes from CMM L3 to L5 standards; served as functional area representative for L4 and L5 assessments.
+- Upgraded documentation processes from CMM L3 to L5 standards; served as functional area representative for L4 and L5 assessments.
 
 ---
 
@@ -125,6 +125,7 @@ Dissertation: *Solitary Confinement: The Destitution of Modern Man — As Constr
 ## Certifications
 
 📜 **Intermediate Technical Writing** · University of Wisconsin–Eau Claire · Oct 2022
+📜 **[Fundamentals of Digital Marketing](https://skillshop.exceedlms.com/student/award/LPLt6grtFhszbihcwq4RZM4z)** · Google Digital Academy (Skillshop) · July 2026
 
 ---
 
