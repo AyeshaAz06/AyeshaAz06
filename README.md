@@ -125,6 +125,7 @@ Dissertation: *Solitary Confinement: The Destitution of Modern Man — As Constr
 ## Certifications
 
 📜 **Intermediate Technical Writing** · University of Wisconsin–Eau Claire · Oct 2022
+
 📜 **[Fundamentals of Digital Marketing](https://skillshop.exceedlms.com/student/award/LPLt6grtFhszbihcwq4RZM4z)** · Google Digital Academy (Skillshop) · July 2026
 
 ---
